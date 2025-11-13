@@ -40,20 +40,6 @@ Passionné par la création d'expériences web modernes et performantes, je con�
 
 ---
 
-### 🌟 Projets en Vedette
-
-#### 🔹 [Nathalie Mota](https://github.com/Farid83300/Nathalie-Mota)
-Description courte de votre projet WordPress le plus impressionnant.
-- **Technologies:** WordPress, PHP, JavaScript
-- **Fonctionnalités:** Thème personnalisé créer de A à Z
-
-#### 🔹 [Planty](https://github.com/Farid83300/Planty)
-Un autre projet notable qui démontre vos compétences.
-- **Technologies:** WordPress, Custom Post Types, ACF
-- **Fonctionnalités: Wordpress / Elementor / custom theme based on Astra
-
----
-
 ### 📫 Me Contacter
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farid.zaffalone@gmail.com)
@@ -62,35 +48,5 @@ Un autre projet notable qui démontre vos compétences.
 
 ---
 
-### 💡 En ce moment
-
-```php
-<?php
-$current_focus = [
-    'learning' => 'React & Nodejs / Express / MongoDB',
-    'working_on' => 'Agency website',
-    'improving' => 'Performance & SEO',
-    'coffee_consumed' => '∞'
-];
-```
-
----
-
-### 🎓 Philosophie de Développement
-
-> *"Un bon code est comme une blague bien racontée : il n'a pas besoin d'être expliqué."*
-
-Je crois en un code propre, maintenable et bien documenté. Chaque projet est une opportunité d'apprendre et de créer quelque chose de remarquable.
-
----
-
-### 📈 Activité Récente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ⭐️ N'hésitez pas à explorer mes repositories et à me contacter pour des collaborations !
 
-![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=Farid83300)

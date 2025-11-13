@@ -44,23 +44,23 @@ Passionné par la création d'expériences web modernes et performantes, je con�
 
 ### 🌟 Projets en Vedette
 
-#### 🔹 [Nom du Projet 1](lien-vers-repo)
+#### 🔹 [Nathalie Mota](https://github.com/Farid83300/Nathalie-Mota)
 Description courte de votre projet WordPress le plus impressionnant.
 - **Technologies:** WordPress, PHP, JavaScript
-- **Fonctionnalités:** Liste des features principales
+- **Fonctionnalités:** Thème personnalisé créer de A à Z
 
-#### 🔹 [Nom du Projet 2](lien-vers-repo)
+#### 🔹 [Planty](https://github.com/Farid83300/Planty)
 Un autre projet notable qui démontre vos compétences.
 - **Technologies:** WordPress, Custom Post Types, ACF
-- **Fonctionnalités:** Caractéristiques clés
+- **Fonctionnalités: Wordpress / Elementor / custom theme based on Astra
 
 ---
 
 ### 📫 Me Contacter
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@exemple.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://votre-site.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farid.zaffalone@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farid-zaffalone/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://faridzaffalone.com)
 
 ---
 
@@ -69,8 +69,8 @@ Un autre projet notable qui démontre vos compétences.
 ```php
 <?php
 $current_focus = [
-    'learning' => 'React & Gutenberg Blocks',
-    'working_on' => 'Plugin WordPress innovant',
+    'learning' => 'React & Nodejs / Express / MongoDB',
+    'working_on' => 'Agency website',
     'improving' => 'Performance & SEO',
     'coffee_consumed' => '∞'
 ];

@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis [Votre Nom]
+# 👋 Bonjour, je suis Farid83300
 
 ## 🚀 Développeur Web & WordPress
 
@@ -36,9 +36,9 @@ Passionné par la création d'expériences web modernes et performantes, je con�
 
 ### 📊 Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Farid83300&show_icons=true&theme=radical)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Farid83300&layout=compact&theme=radical)
 
 ---
 
@@ -95,4 +95,4 @@ Je crois en un code propre, maintenable et bien documenté. Chaque projet est un
 
 ⭐️ N'hésitez pas à explorer mes repositories et à me contacter pour des collaborations !
 
-![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=VOTRE_USERNAME.VOTRE_USERNAME)
+![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=Farid83300)

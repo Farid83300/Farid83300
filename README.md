@@ -1,5 +1,5 @@
 ## 🚀 Développeur Web & WordPress
-Passionné par la création d'expériences web modernes et performantes, je conçois des sites WordPress sur mesure qui allient design élégant et fonctionnalités robustes.
+Créateur d'expériences web modernes et performantes, je conçois des sites WordPress sur mesure qui allient design élégant et fonctionnalités robustes.
 
 ---
 

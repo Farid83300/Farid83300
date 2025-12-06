@@ -35,8 +35,8 @@ Créateur d'expériences web modernes et performantes, je conçois des sites Web
 ---
 
 ### 📊 Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Farid83300&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Farid83300&layout=compact&theme=radical)
+![Statistiques GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Farid83300&show_icons=true&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Farid83300&layout=compact&theme=radical)
 
 ---
 

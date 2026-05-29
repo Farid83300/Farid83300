@@ -1,6 +1,6 @@
 ## 🚀 Full-Stack Developer — PHP · React · WordPress · SaaS
 
-Développeur full-stack passionné par la création d'expériences web modernes et performantes. Je conçois des applications web sur-mesure, des sites WordPress robustes et des SaaS scalables, en combinant design soigné et architecture solide.
+Full-stack developer passionate about building modern and high-performance web experiences. I craft custom web applications, robust WordPress websites and scalable SaaS products, combining thoughtful design with solid architecture.
 
 ---
 

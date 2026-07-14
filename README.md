@@ -1,4 +1,4 @@
-## 🚀 Full-Stack Developer — PHP · React · WordPress · SaaS
+## 🚀 Software Developer — PHP · React · Next.JS · SaaS
 
 Full-stack developer passionate about building modern and high-performance web experiences. I craft custom web applications, robust WordPress websites and scalable SaaS products, combining thoughtful design with solid architecture.
 
@@ -30,6 +30,13 @@ Full-stack developer passionate about building modern and high-performance web e
 
 ### 🎯 My Services
 
+#### 🚀 SaaS & Web Application Development
+- 🏗️ **Custom SaaS development** — PHP (MVC), Node.js, React, Next.js
+- 🔗 **REST API design and integration**
+- 🗄️ **Database architecture** — MySQL, MongoDB
+- ☁️ **Deployment and server configuration**
+- 🔄 **Full-stack feature development** — from UI to backend logic
+
 #### 🌐 WordPress Development
 - 🎨 **Custom WordPress theme development**
 - 🔌 **Tailored plugin creation**
@@ -37,13 +44,6 @@ Full-stack developer passionate about building modern and high-performance web e
 - 📱 **Responsive and mobile-first design**
 - ⚡ **Web performance optimization**
 - 🔒 **Security hardening and updates**
-
-#### 🚀 SaaS & Web Application Development
-- 🏗️ **Custom SaaS development** — PHP (MVC), Node.js, React, Next.js
-- 🔗 **REST API design and integration**
-- 🗄️ **Database architecture** — MySQL, MongoDB
-- ☁️ **Deployment and server configuration**
-- 🔄 **Full-stack feature development** — from UI to backend logic
 
 ---
 

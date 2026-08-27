@@ -49,8 +49,8 @@ Full-stack developer passionate about building modern and high-performance web e
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Farid83300&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Farid83300&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farid83300&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farid83300&layout=compact&theme=radical)
 
 ---
 

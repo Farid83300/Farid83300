@@ -1,4 +1,4 @@
-## 🚀 Software Developer — PHP · React · Next.JS · SaaS
+## 🚀 Application Developer PHP/React
 
 Full-stack developer passionate about building modern and high-performance web experiences. I craft custom web applications, robust WordPress websites and scalable SaaS products, combining thoughtful design with solid architecture.
 
